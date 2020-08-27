@@ -1,0 +1,23 @@
+/*Footer*/
+.footer {
+  clear: both;
+  background-color: #f1f1f1;
+  text-align: center;
+  width: 100%;
+  margin-top: 100px;
+  padding: 20px;
+  bottom: 0;
+  position: relative;
+}
+.footer span {
+  width: 100%;
+}
+.footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.footer a:hover {
+  font-size: 18px;
+  padding: 0 10px;
+}
